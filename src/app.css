@@ -1,0 +1,12 @@
+#root h2 {
+  font-size: 10px;
+}
+#root .smallImg {
+  width: 60px;
+  height: 70px;
+  background: url("asset/2.jpeg") no-repeat;
+}
+#root .bigImg {
+  height: 400px;
+  background: url("asset/1.jpeg") no-repeat;
+}
