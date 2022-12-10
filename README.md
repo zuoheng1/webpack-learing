@@ -1,6 +1,6 @@
 
 ```
-real
+webpack-learing
 ├─ .DS_Store
 ├─ .browserslistrc
 ├─ .gitignore
